@@ -1,0 +1,13 @@
+{
+  "name": "todo-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+  
+}

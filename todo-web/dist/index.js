@@ -15,7 +15,6 @@ addTaskButton.addEventListener("click", () => {
         taskList.push(newTask);
         renderTasks();
         taskInput.value = "";
-        console.log("here");
     }
 });
 function renderTasks() {

@@ -24,7 +24,6 @@ interface Task {
       taskList.push(newTask);
       renderTasks();
       taskInput.value = ""; 
-      console.log("here");
     }
   });
   
